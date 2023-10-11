@@ -1072,6 +1072,7 @@ li.header_cta a{
 <script src="assets/js/owl.carousel.min.js"></script>
 <script src="assets/js/custom.js"></script>
 <script src="assets/js/custom-2.js"></script>
+<!-- (c) 2005, 2023. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="144a897a-a5f7-4e4c-81ff-7ddfc4710dde";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net:443/anetseal/seal.js" ></script> </div>   
 
 <script>
     $(document).ready(function() {
@@ -1295,6 +1296,8 @@ li.header_cta a{
         }
     })();
 </script>
+
+
 </body>
 
 
